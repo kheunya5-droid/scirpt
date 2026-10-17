@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kheunya5-droid/scirpt/a59bb7f13276b1a9342f5ed36b90d7e8f624de5a/gemini-code-1792240068852.lua"))()
